@@ -1,0 +1,1 @@
+export const baseUrl = `https://qrcode-staging-9beedb5be191.herokuapp.com`
